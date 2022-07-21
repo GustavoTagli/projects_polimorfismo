@@ -1,0 +1,16 @@
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\bin\Debug\net5.0\app.exe
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\bin\Debug\net5.0\app.deps.json
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\bin\Debug\net5.0\app.runtimeconfig.json
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\bin\Debug\net5.0\app.runtimeconfig.dev.json
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\bin\Debug\net5.0\app.dll
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\bin\Debug\net5.0\app.pdb
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\obj\Debug\net5.0\app.csproj.AssemblyReference.cache
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\obj\Debug\net5.0\app.AssemblyInfo.cs
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\obj\Debug\net5.0\app.dll
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\obj\Debug\net5.0\refint\app.dll
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\obj\Debug\net5.0\app.pdb
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\obj\Debug\net5.0\app.genruntimeconfig.cache
+D:\tagli\AllMe\Generation\CSharp\polimorfismo\geometricShapes\app\obj\Debug\net5.0\ref\app.dll
